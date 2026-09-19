@@ -1,5 +1,4 @@
 const $ = (id) => document.getElementById(id);
-
 const orb = $("orb");
 const statusEl = $("status");
 const txEl = $("transcript");
