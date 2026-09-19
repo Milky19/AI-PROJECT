@@ -1,6 +1,6 @@
-# DevOps Shack VoiceOps Assistant
+# DevOps krishna VoiceOps Assistant
 
-A DevOps Shack–branded real-time AI voice assistant for DevOps learning, troubleshooting guidance, and safe local diagnostics.
+A DevOps krishna–branded real-time AI voice assistant for DevOps learning, troubleshooting guidance, and safe local diagnostics.
 
 The browser captures microphone audio and streams it over WebSocket to a FastAPI backend. The backend keeps a Gemini Live session open, streams the assistant's voice back to the browser, and exposes a small set of read-only DevOps tools.
 
@@ -51,7 +51,7 @@ devops-shack-voiceops-assistant/
 ## What the demo can do
 
 - Real-time voice conversation with Gemini Live
-- DevOps Shack–branded frontend
+- DevOps krishna–branded frontend
 - Explain Linux, Docker, Kubernetes, Jenkins, CI/CD, networking, and troubleshooting concepts
 - Check CPU usage
 - Check memory usage
